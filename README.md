@@ -110,14 +110,21 @@ Senior AI Engineer with over 8 years of experience building and deploying advanc
 -   **Bioaster (Senior MLE / Tech Lead):**
     -   Architected a novel deep learning model, achieving state-of-the-art accuracy (+9%).
     -   Developed novel VAE and Diffusion models for *de novo* peptide design, identifying 100 therapeutic candidates for in-vitro testing.
-    -   Mentored 4 engineers and led a team of 8 data scientists as Scrum Master.
 -   **Genomic Vision (Computer Vision Engineer):**
     -   Authored novel methods for image reconstruction, increasing Recall by 10 points and reducing data analysis time by 30%.
     -   Developed real-time C++/CUDA algorithms that enabled a 1.5x increase in sample throughput.
     -   Deployed high-throughput inference services with Docker & ONNX, reducing latency by 20%.
+-   **Postdoctoral fellow in Machine Learning**
+    -   Authored early detection models for infection prediction from ECG signals (48 hours before infection detection).
+    -   Interpreted ML models using explainability libraries (Captum) to ensure trust and interpretability.
+-  **PhD in Computer vision:**
+    -   Designed efficient 3D reconstruction algorithms using stereo vision and SLAM principles on low-resolution thermal imagery.
+    -   Proposed robust calibration methods and sub-pixel matching techniques improving reconstruction accuracy in challenging environments.
+    -   Proposed robust calibration methods and sub-pixel matching techniques improving reconstruction accuracy in challenging environments.
 -   **Ensta Paristech (Intern):**
     -   Boosted real-time 3D SLAM pipelines with SIMD parallelization, achieving a 5x speedup vs. the OpenCV baseline.
+-   **ICOMG (Software Engineer):**
+    - Designed and built J2EE and ASP.NET applications (SQL, Javascript, C#, Java, Git, UML, Agile)    
 
 ---
 
-![Yannick's GitHub stats](https://github-readme-stats.vercel.app/api?username=zyannick&show_icons=true&theme=dracula&hide_border=true&rank_icon=github)
