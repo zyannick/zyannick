@@ -107,9 +107,9 @@ Senior AI Engineer with over 8 years of experience building and deploying advanc
 
 ## 📈 Professional Experience Highlights
 
--   **Bioaster (Senior MLE / Tech Lead):**
+-   **Bioaster (Senior MLE):**
     -   Architected a novel deep learning model, achieving state-of-the-art accuracy (+9%).
-    -   Developed novel VAE and Diffusion models for *de novo* peptide design, identifying 100 therapeutic candidates for in-vitro testing.
+    -   *de novo* peptide design, identifying 100 therapeutic candidates for in-vitro testing.
 -   **Genomic Vision (Computer Vision Engineer):**
     -   Authored novel methods for image reconstruction, increasing Recall by 10 points and reducing data analysis time by 30%.
     -   Developed real-time C++/CUDA algorithms that enabled a 1.5x increase in sample throughput.
